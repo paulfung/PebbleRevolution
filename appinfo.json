@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "Paul Fung",
-    "longName": "Evolution Mod",
+    "longName": "Revolution Mod",
     "projectType": "native",
     "resources": {
         "media": [
@@ -100,56 +100,6 @@
                 "type": "png"
             },
             {
-                "file": "images/second_9.png",
-                "name": "IMAGE_SECOND_9",
-                "type": "png"
-            },
-            {
-                "file": "images/second_8.png",
-                "name": "IMAGE_SECOND_8",
-                "type": "png"
-            },
-            {
-                "file": "images/second_7.png",
-                "name": "IMAGE_SECOND_7",
-                "type": "png"
-            },
-            {
-                "file": "images/second_6.png",
-                "name": "IMAGE_SECOND_6",
-                "type": "png"
-            },
-            {
-                "file": "images/second_5.png",
-                "name": "IMAGE_SECOND_5",
-                "type": "png"
-            },
-            {
-                "file": "images/second_4.png",
-                "name": "IMAGE_SECOND_4",
-                "type": "png"
-            },
-            {
-                "file": "images/second_3.png",
-                "name": "IMAGE_SECOND_3",
-                "type": "png"
-            },
-            {
-                "file": "images/second_2.png",
-                "name": "IMAGE_SECOND_2",
-                "type": "png"
-            },
-            {
-                "file": "images/second_1.png",
-                "name": "IMAGE_SECOND_1",
-                "type": "png"
-            },
-            {
-                "file": "images/second_0.png",
-                "name": "IMAGE_SECOND_0",
-                "type": "png"
-            },
-            {
                 "file": "images/date_9.png",
                 "name": "IMAGE_DATE_9",
                 "type": "png"
@@ -202,7 +152,7 @@
         ]
     },
     "sdkVersion": "2",
-    "shortName": "Evolution Mod",
+    "shortName": "Revolution Mod",
     "uuid": "4f0f0bf0-535f-4854-bd37-0da27502f61e",
     "versionCode": 1,
     "versionLabel": "1.0",

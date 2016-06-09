@@ -1,3 +1,10 @@
+//Modified by Paul Fung
+//Removed SECONDS from the watchface
+//Aligned DATE to the right side of the screen
+//Shortened animation time to 100ms
+//
+//Thanks to Douwe for his source code to this beautiful watchface
+//---------------------------------------------------------------------------------------------------
 // Copyright (c) 2013 Douwe Maan <http://www.douwemaan.com/>
 // The above copyright notice shall be included in all copies or substantial portions of the program.
 
