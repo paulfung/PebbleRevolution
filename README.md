@@ -2,13 +2,17 @@
 
 Modified by [Paul Fung](http://www.kpfung.com).
 
-The aim of this modification is to extend the watch battery life by removing its per-second-update to the watchface.
+The aim of this modification is to extend the watch battery life by removing its per-second update from the watchface.
 
 Changelog:
 * Removed SECONDS from the watchface
-* Changed the per second callback function to a per minute replacement
+* Changed the per-second callback function to a per-minute replacement
 * Aligned DATE to the right side of the screen
 * Shortened animation time to 100ms
+
+### Download version 1.0
+
+* [Revolution_Mod.pbw](https://github.com/paulfung/PebbleRevolution/blob/master/releases/Revolution_Mod.pbw)
 
 Thanks to Douwe for his source code to this beautiful watchface.
 
@@ -19,10 +23,6 @@ Implemented by Douwe Maan.
 Envisioned as a watchface by Jean-Noël Mattern (Jnm), who posted it in the ["Watch-face ideas" thread](http://forums.getpebble.com/discussion/comment/3538/#Comment_3538) on the Pebble forums.
 
 Based on the display of the [Freebox Revolution](http://www.free.fr/adsl/freebox-revolution.html), which was designed by Philippe Starck.
-
-### Download version 1.0
-
-* [Revolution_Mod.pbw](https://github.com/paulfung/PebbleRevolution/blob/master/releases/Revolution_Mod.pbw)
 
 ## License
 Copyright (c) 2013 [Douwe Maan](http://www.douwemaan.com/)
